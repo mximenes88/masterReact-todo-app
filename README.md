@@ -12,6 +12,10 @@
 
 ******
 
+**Functionality**
+ * Users can add items to their to-do list
+ * Items completed can be `checked-off`
+ * Items can be deleted at anytime 
 
 ## Available Scripts
 
